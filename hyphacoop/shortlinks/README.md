@@ -36,3 +36,5 @@ https://example.com/asfjaflnadsesljarmdkasdjasd. Just add a new line to
 URL as the `destination_url`.
 
 Shortlinks are ready to use immediately after commit to master branch.
+
+   [site-repo]: https://github.com/hyphacoop/link.hypha.coop
