@@ -5,7 +5,7 @@ Source for our `link.hypha.coop` shortlinks
 Configuration for these shortlinks are stored in
 [`shortlinks.csv`](shortlinks.csv).
 
-This directory contains a CSV file used by the [hyphacoop/link.hypha.coop](http://github.com/hyphacoop/link.hypha.coop) script and this documentation.
+This directory contains a CSV file used by the [hyphacoop/link.hypha.coop](https://github.com/hyphacoop/link.hypha.coop) script and this documentation.
 
 ## Terminology
 
