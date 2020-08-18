@@ -1,13 +1,11 @@
 # Hypha Co-op: Shortlinks
 
-For generating our `link.hypha.coop` shortlinks.
+Source for our `link.hypha.coop` shortlinks
 
 Configuration for these shortlinks are stored in
 [`shortlinks.csv`](shortlinks.csv).
 
-This repo contains only configuration and documentation. The shortlinks website is in the link.hypha.coop 
-[`hyphacoop/link.hypha.coop` repo][site-repo]. Please see that repo
-for details.
+This directory contains a CSV file used by the [hyphacoop/link.hypha.coop](https://github.com/hyphacoop/link.hypha.coop) script and this documentation.
 
 ## Terminology
 
@@ -35,6 +33,4 @@ https://example.com/asfjaflnadsesljarmdkasdjasd. Just add a new line to
 `shortlinks.csv` with `my-shortlink` as the `keyword` and your complex
 URL as the `destination_url`.
 
-Shortlinks are ready to use immediately after commit to master branch.
-
-   [site-repo]: https://github.com/hyphacoop/link.hypha.coop
+Shortlinks are active as soon as **committed to master**. GitHub may cache results for a short period of time.
