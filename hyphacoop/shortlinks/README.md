@@ -34,5 +34,3 @@ https://example.com/asfjaflnadsesljarmdkasdjasd. Just add a new line to
 URL as the `destination_url`.
 
 Shortlinks are active as soon as **committed to master**. GitHub may cache results for a short period of time.
-
-   [site-repo]: https://github.com/hyphacoop/link.hypha.coop
