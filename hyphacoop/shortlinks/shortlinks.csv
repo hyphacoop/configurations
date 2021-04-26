@@ -63,11 +63,6 @@ mentions,http://node2.e-mesh.net/hypha/
 employees,https://docs.google.com/spreadsheets/d/1AwgVq3ghTQgg5J8s1xbcsdAfis2u4vBU9qi1nZANMOE/edit#gid=1967891803
 start-digital,https://drive.google.com/drive/u/0/folders/1nyNa9-cGCOdPIUO62-lKFM0KaNClE-uD
 okrs,https://docs.google.com/spreadsheets/d/1hMFS3IhzZOFQA-yjt7lFcoVO0Ry6erFEH7D1NswvDtA/edit
-template,https://raw.githubusercontent.com/hyphacoop/organizing/master/-meeting-template.md
-standup-template,https://raw.githubusercontent.com/hyphacoop/organizing/master/-standup-template.md
-wg-template,https://raw.githubusercontent.com/hyphacoop/organizing/master/-wg-template.md
-wg-gov-template,https://raw.githubusercontent.com/hyphacoop/organizing/master/-wg-gov-template.md
-wg-ops-template,https://raw.githubusercontent.com/hyphacoop/organizing/master/-wg-gov-template.md
 client-agreement,https://docs.google.com/document/d/1nmPX8k3TSEEUYx7cFaOoVNKbwjhp8nbUZwe6OdvC7Do/edit#
 look,https://handbook.hypha.coop/look-and-feel.html
 look-assets,https://drive.google.com/drive/folders/1URLZzO0P2IuLjRzvmg_C3ecV0N54GbeJ
@@ -112,3 +107,12 @@ bike-squad,https://miro.com/app/board/o9J_lL3iZuY=/
 oc-mood,https://miro.com/app/board/o9J_lLPPvvU=/
 budget,https://docs.google.com/spreadsheets/d/1sfWOQKogtGU83eIIVD0GQnFvRyJzaqzWvrtB3D0jy64/edit#gid=327425121
 ciu,https://bcca.coop/ciu-co-operatives-are-well-placed-to-offer-canadians-a-solution-to-uncertainty/
+template,https://raw.githubusercontent.com/hyphacoop/organizing/master/templates/allhands.md
+allhands-template,https://raw.githubusercontent.com/hyphacoop/organizing/master/templates/allhands.md
+standup-template,https://raw.githubusercontent.com/hyphacoop/organizing/master/templates/standup.md
+wg-template,https://link.hypha.coop/initiative-template
+wg-gov-template,https://link.hypha.coop/initiative-gov-template
+wg-ops-template,https://link.hypha.coop/initiative-ops-template
+initiative-template,https://raw.githubusercontent.com/hyphacoop/organizing/master/-wg-template.md
+initiative-gov-template,https://raw.githubusercontent.com/hyphacoop/organizing/master/templates/initiative-gov.md
+initiative-ops-template,https://raw.githubusercontent.com/hyphacoop/organizing/master/templates/initiative-gov.md
