@@ -63,7 +63,6 @@ look,https://handbook.hypha.coop/look-and-feel.html
 look-assets,https://drive.google.com/drive/folders/1URLZzO0P2IuLjRzvmg_C3ecV0N54GbeJ
 letterhead,https://docs.google.com/document/d/1HQ2EUQYEIZcHRwHzmzDfrYU0dTMnOGEPbmo6l_HfZYs/edit
 report-template,https://docs.google.com/document/d/1erY--MhTXWOrJUzPXRSR4mP9Hs-62kc2QXl-fsCqB-0/edit
-calls,https://ca.meet.coop/hyp-4fj-erd-93o
 passwords,https://vault.bitwarden.com
 passwords-ro,https://pass-ro.hypha.coop
 compost,https://github.com/hyphacoop/distributed-press-organizing/projects/1
@@ -86,12 +85,9 @@ expenses,https://docs.google.com/spreadsheets/d/1sfWOQKogtGU83eIIVD0GQnFvRyJzaqz
 reimbursement,https://docs.google.com/spreadsheets/d/1sfWOQKogtGU83eIIVD0GQnFvRyJzaqzWvrtB3D0jy64/edit#gid=948629272
 projection,https://docs.google.com/spreadsheets/d/1sfWOQKogtGU83eIIVD0GQnFvRyJzaqzWvrtB3D0jy64/edit#gid=0
 projections,https://docs.google.com/spreadsheets/d/1sfWOQKogtGU83eIIVD0GQnFvRyJzaqzWvrtB3D0jy64/edit#gid=0
-compost-calls,https://ca.meet.coop/hyp-blf-zuj-akh
-compost-calls-private,https://ca.meet.coop/hyp-1sw-jxo-khl
 compost-wiki,https://github.com/hyphacoop/distributed-press-organizing/wiki
 compost-coc,https://github.com/hyphacoop/distributed-press-organizing/wiki/Code-of-Conduct
 compost-meetings,https://drive.google.com/drive/u/0/folders/1dTmtaKqH4qkjqdTKly3DdQqbLRGxUwDF
-meetcoop,https://ca.meet.coop/hyp-wcj-sre
 address,https://github.com/hyphacoop/organizing-private/blob/master/documents/finances/account-information.md
 status,https://status.aseriesoftubez.com/
 compost-newsletter,https://lists.hypha.coop/cgi-bin/mailman/listinfo/compost
@@ -120,11 +116,21 @@ fin-wg,https://loomio.hypha.coop/g/sRPwaorg/working-groups-finance
 gov-wg,https://loomio.hypha.coop/g/BaAj6dQn/working-groups-governance
 ops-wg,https://loomio.hypha.coop/g/KvARWad7/working-groups-infrastructure
 inf-wg,https://loomio.hypha.coop/g/o5Q0pZKS/working-groups-operations
-cosmos-calls, https://ca.meet.coop/hyp-jfz-tru-lkt
 closures,https://docs.google.com/document/d/1qAuHOPpoZE0gUd4IgGDjYeiQVuVG54BN_iu4ebq0_RM/edit#
 leaves,https://link.hypha.coop/closures
 holidays,https://link.hypha.coop/closures
 cosmos-validator-survey,https://airtable.com/shrz6LMUE7V4CMpf1
+calls,https://ca.meet.coop/hyp-4fj-erd-93o
+calls-private,https://ca.meet.coop/hyp-nkn-exu
+calls-recorded,https://ca.meet.coop/ben-m5f-0rd
+cosmos-calls,https://ca.meet.coop/hyp-jfz-tru-lkt
+comsos-calls-private,https://ca.meet.coop/hyp-vwy-box-d9m
+comsos-calls-recorded,https://ca.meet.coop/hyp-xyk-vb9-f3x
+compost-calls,https://ca.meet.coop/hyp-blf-zuj-akh
+compost-calls-private,https://ca.meet.coop/hyp-1sw-jxo-khl
+compost-calls-recorded,https://ca.meet.coop/hyp-ctq-vge-psb
+meetcoop,https://ca.meet.coop/hyp-wcj-sre
+meetcoop-calls,https://ca.meet.coop/wou-cyy-wpt
 starling-tasks,https://github.com/orgs/starlinglab/projects/1
 starling-issues,https://github.com/starlinglab/organizing-private/issues
 starling-asana,https://app.asana.com/0/1201415569590015/overview
