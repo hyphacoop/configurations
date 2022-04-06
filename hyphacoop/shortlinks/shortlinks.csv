@@ -1,7 +1,7 @@
 keyword,destination_url
 shortlinks,https://github.com/hyphacoop/configurations/blob/master/hyphacoop/shortlinks/shortlinks.csv
 keywords,https://link.hypha.coop/shortlinks
-drive,https://drive.google.com/drive/u/0/folders/14KYnYwOEK3InYZ3jCn-Gtf5q430sE9oc
+drive,https://drive.google.com/drive/u/0/shared-drives
 gdrive,https://link.hypha.coop/drive
 loomio,https://loomio.hypha.coop
 github,https://github.com/hyphacoop
@@ -36,7 +36,6 @@ calendar,https://calendar.google.com/calendar/embed?src=c_jl85vo0ji0r2jm4eldph8h
 availability,https://calendar.google.com/calendar/embed?src=c_80ms6k2ghbu43n1eenkv1vnd80@group.calendar.google.com
 facebook,https://www.facebook.com/hyphacoop/
 fb,https://www.facebook.com/hyphacoop/
-photos,https://drive.google.com/drive/u/0/folders/105SjE7YSlaIyhJvSw7aMnkfKjUtaXNcr
 meetings,https://meetings.hypha.coop
 tasks,https://github.com/orgs/hyphacoop/projects/2
 new-task,https://github.com/hyphacoop/organizing/issues/new?template=task_template.md
@@ -56,17 +55,15 @@ webmail,https://mailninja.aseriesoftubez.com/SOGo
 business-plan,https://docs.google.com/document/d/1U8C1XZcDpu1r4ciecbKEZ6vOL41nTinfqPCbZDhkAWc/edit
 mentions,http://node2.e-mesh.net/hypha/
 employees,https://docs.google.com/spreadsheets/d/1AwgVq3ghTQgg5J8s1xbcsdAfis2u4vBU9qi1nZANMOE/edit#gid=1967891803
-start-digital,https://drive.google.com/drive/u/0/folders/1nyNa9-cGCOdPIUO62-lKFM0KaNClE-uD
 okrs,https://docs.google.com/spreadsheets/d/1hMFS3IhzZOFQA-yjt7lFcoVO0Ry6erFEH7D1NswvDtA/edit
 client-agreement,https://docs.google.com/document/d/1nmPX8k3TSEEUYx7cFaOoVNKbwjhp8nbUZwe6OdvC7Do/edit#
 look,https://handbook.hypha.coop/look-and-feel.html
-look-assets,https://drive.google.com/drive/folders/1URLZzO0P2IuLjRzvmg_C3ecV0N54GbeJ
 letterhead,https://docs.google.com/document/d/1HQ2EUQYEIZcHRwHzmzDfrYU0dTMnOGEPbmo6l_HfZYs/edit
 report-template,https://docs.google.com/document/d/1erY--MhTXWOrJUzPXRSR4mP9Hs-62kc2QXl-fsCqB-0/edit
 passwords,https://vault.bitwarden.com
 passwords-ro,https://pass-ro.hypha.coop
 compost,https://github.com/hyphacoop/distributed-press-organizing/projects/1
-compost-drive,https://drive.google.com/drive/u/0/folders/1iXLVMtM12-Ef4OgFKHiEQEpIXSANqsgd
+compost-drive,https://drive.google.com/drive/u/0/folders/1HTBx-o7vwLRJn7TkDiTbqTz1ZtR8xPn9
 issue-log,https://docs.google.com/spreadsheets/d/1P1tW9_80Ca6UTPXhPfEte-1jbKKt-PnHk-QEwzWnYYw/edit?usp=drive_web&ouid=117169981156567015860
 capacity,https://docs.google.com/spreadsheets/d/1LyElXvLj7ASclSPQqcgOnuEWqBWBStilEfOhIosZzhA/edit#gid=107414002
 holiday-special,https://miro.com/app/board/o9J_lcu-U58=/
@@ -75,9 +72,9 @@ compost-time,https://docs.google.com/spreadsheets/d/1pzIlEwhKNeDHv-_uYplkihdCxKa
 projects,https://docs.google.com/spreadsheets/d/1LyElXvLj7ASclSPQqcgOnuEWqBWBStilEfOhIosZzhA/edit#gid=1841786771
 initiatives,https://docs.google.com/spreadsheets/d/1LyElXvLj7ASclSPQqcgOnuEWqBWBStilEfOhIosZzhA/edit#gid=1841786771
 rates,https://github.com/hyphacoop/organizing-private/blob/master/documents/business-planning/sales.md#hourly-rates
-finance,https://drive.google.com/drive/u/0/folders/1E7xYFNbdev-B6h4PCNH2-vArA4IA5uxN
+finance,https://drive.google.com/drive/u/0/folders/1-N8X_Johx_-cQCXDyJ1lHcIPfg24M4lk
 finance-snapshots,https://drive.google.com/drive/u/0/folders/11qAU0Cg1ohbvvLqQhXZpyEpRyLkVYMy7
-receipts,https://drive.google.com/drive/u/0/folders/1AlgB6On-GWZyW8cOJA0HMlmUMVPFnyEx
+receipts,https://drive.google.com/drive/u/0/folders/12hwlC6Djbg0R_dtTE9bULq1jQ2QduLjr
 invoices,https://docs.google.com/spreadsheets/d/1sfWOQKogtGU83eIIVD0GQnFvRyJzaqzWvrtB3D0jy64/edit
 payroll,https://docs.google.com/spreadsheets/d/1sfWOQKogtGU83eIIVD0GQnFvRyJzaqzWvrtB3D0jy64/edit#gid=475791249
 wage,https://docs.google.com/spreadsheets/d/1sfWOQKogtGU83eIIVD0GQnFvRyJzaqzWvrtB3D0jy64/edit#gid=977274894
@@ -87,7 +84,7 @@ projection,https://docs.google.com/spreadsheets/d/1sfWOQKogtGU83eIIVD0GQnFvRyJza
 projections,https://docs.google.com/spreadsheets/d/1sfWOQKogtGU83eIIVD0GQnFvRyJzaqzWvrtB3D0jy64/edit#gid=0
 compost-wiki,https://github.com/hyphacoop/distributed-press-organizing/wiki
 compost-coc,https://github.com/hyphacoop/distributed-press-organizing/wiki/Code-of-Conduct
-compost-meetings,https://drive.google.com/drive/u/0/folders/1dTmtaKqH4qkjqdTKly3DdQqbLRGxUwDF
+compost-meetings,https://drive.google.com/drive/u/0/folders/1KZQQecuAhRz9xwe7nf6x-BkdUR0HNtjg
 address,https://github.com/hyphacoop/organizing-private/blob/master/documents/finances/account-information.md
 status,https://status.aseriesoftubez.com/
 compost-newsletter,https://lists.hypha.coop/cgi-bin/mailman/listinfo/compost
