@@ -19,7 +19,7 @@ cron,https://github.com/hyphacoop/worker-coop-scripts
 scheduled-tasks,https://link.hypha.coop/cron
 inventory,https://github.com/hyphacoop/organizing-private/blob/main/documents/infrastructure/services-inventory.md
 crm,https://docs.google.com/spreadsheets/d/1IfwvGwwjOQSEli7S6bqnVY075soaPQedqf--nq9Au2A/edit#gid=368881301
-leads,https://app.hubspot.com/contacts/6514161/deals/board/view/all/?
+leads,https://github.com/orgs/hyphacoop/projects/34
 opportunities,https://link.hypha.coop/crm
 prospects,https://link.hypha.coop/crm
 deals,https://link.hypha.coop/crm
